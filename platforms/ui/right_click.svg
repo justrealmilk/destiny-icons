@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="30" viewBox="0 0 20 30">
+<title>right_click</title>
+<path d="m8 11c-1 0-5 0-7-1v-2c0-4 4-8 8-8v7.3c-0.5 0.2-1 0.7-1 1.7z" fill="#acacac"/>
+<path d="m11 1c4 0 8 4 8 8v1c-3 1-6 1-7 1v-2c0-1-0.5-1.5-1-1.7z" fill="#2f8ac8"/>
+<path d="m19 12c-3 1-7 1-7 1 0 1-1 2-2 2s-2-1-2-2c-1 0-5 0-7-1v10c0 4 4 8 8 8h2c4 0 8-4 8-8z" fill="#acacac"/>
+<rect x="9" y="8" width="2" height="6" rx="1" fill="#acacac"/>
+</svg>
