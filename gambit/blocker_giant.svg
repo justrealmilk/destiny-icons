@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="100">
+<title>blocker_giant</title>
+<path fill="#000000" d="m20,10l42,0l-21,35z"/>
+<path fill="#000000" d="m72,10l42,0l-21,35z"/>
+<path fill="#000000" d="m20,90l42,0l-21,-35z"/>
+<path fill="#000000" d="m72,90l42,0l-21,-35z"/>
+<path fill="#000000" d="m46,50l21,-35l21,35l-21,35z"/>
+<path fill="#000000" d="m20,23l-16,27l16,27l16,-27z"/>
+<path fill="#000000" d="m114,23l-16,27l16,27l16,-27z"/>
+</svg>
