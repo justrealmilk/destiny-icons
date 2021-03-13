@@ -1,4 +1,3 @@
-<svg width="1024" height="1130" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
- <title>stasis</title>
-  <path transform="scale(1,-1) translate(0,-1130)" fill="black" d="m65,663l267,370l247,-314l0,-610l-72,-99l-442,653zm906,-27l-168,-233l-156,197l0,405l0,111l324,-480z"/>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="38" height="32" viewBox="0 0 38 32">
+<path d="M4.576 12.736l8.544-11.84 7.904 10.048v19.52l-2.304 3.168zM33.568 13.6l-5.376 7.456-4.992-6.304v-16.512z"></path>
 </svg>
